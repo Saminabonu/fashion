@@ -7,14 +7,14 @@
 }
 
 .services .service {
-    border: 1px solid red;
     width: 25rem;
     height: 20rem;
     display: flex;
     flex-direction: column;
 }
-.service__img{
-    border: 1px solid blue; 
+.service__img{ 
+    width: 4.8rem;
+    height: 4.8rem;
 }
 
 .service__info h3 {

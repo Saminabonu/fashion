@@ -48,15 +48,20 @@
     display: flex;
     gap: 3rem;
     flex-wrap: wrap;
+    margin-top: 3.2rem;
 }
 
 .card {
-    border: 1px solid red;
     width: 25.5rem;
+    
 }
 
 .card .card_img {
+    width: 25.5rem;
+    height: 31rem;
+    overflow: hidden;
     background-color: #F7F8FC;
+    border-radius: 0.4rem;
     padding: 1.3rem 1.5rem 0;
 }
 

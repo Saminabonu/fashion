@@ -25,6 +25,9 @@ margin: 1rem 0 4rem 0;
     flex-direction: column;
     gap: 3rem;
 }
+.element_img{
+    background: url(virgil-cayasa-EXSWs3H4TSg-unsplash.jpg);
+}
 .element_info h3{
     font-family: 'Outfit';
 font-style: normal;
