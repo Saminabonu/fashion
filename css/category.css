@@ -1,0 +1,45 @@
+.category h2{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 5rem;
+line-height: 6rem;
+color: #34394C;
+}
+.category > p{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 1.8rem;
+line-height: 2.8rem;
+color: #707686;
+margin: 1rem 0 4rem 0;
+}
+.category .elements{
+    display: flex;
+    gap: 3rem;
+    margin-bottom: 7.5rem;
+}
+.element{
+    display: flex;
+    flex-direction: column;
+    gap: 3rem;
+}
+.element_info h3{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 2.8rem;
+line-height: 6rem;
+text-align: center;
+color: #34394C;
+}
+.element_info p{
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 1.6rem;
+line-height: 6rem;
+text-align: center;
+color: #BFBFBF;
+}
