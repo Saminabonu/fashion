@@ -1,0 +1,112 @@
+.say_about{
+    height: 66.6rem;
+    background-color: #F6F8FA;
+    margin-bottom: 10rem;
+}
+.about_us{
+
+    position: relative;
+    padding: 12.9rem 16.3rem 14.1rem 10rem;
+}
+.left_side{
+    width: 40%;
+}
+
+.left_side h2{
+    padding-top: 5rem;
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 4rem;
+line-height: 5rem;
+color: #34394C;
+}
+.left_side p{
+    font-family: 'Work Sans';
+font-style: normal;
+font-weight: 300;
+font-size: 1.4rem;
+line-height: 2.4rem;
+color: #707686;
+padding: 1rem 0;
+}
+.left_side_img{
+    display: flex;
+    gap: 1.2rem;
+}
+.about_us .full{
+    position: absolute;
+    top: 3rem;
+    right: 17rem;
+}
+.about_us .half{
+    position: absolute;
+    top: 48.2rem;
+    left: 1rem;
+}
+.about_us .medium{
+    position: absolute;
+    top: 43rem;
+    right: -9rem;
+}
+.about_us .small{
+    position: absolute;
+    top: 5rem;
+    right: -10rem;
+}
+.right_side{
+    position: absolute;
+    top: 12rem;
+    left: 50rem;
+    width: 60%;
+    z-index: 10;
+}
+.boxes{
+    display: flex;
+    gap: 3rem;
+}
+.box{
+    width: 35rem;
+    background-color: #fff;
+    padding: 5.7rem 3.2rem 4.6rem 3.2rem;
+    margin-bottom: 2.8rem;
+}
+.box_img{
+    display: flex;
+    justify-content: space-between;
+}
+.box p{
+    font-family: 'Work Sans';
+font-style: italic;
+font-weight: 400;
+font-size: 1.6rem;
+line-height: 2.6rem;
+color: #707686;
+margin: 1.5rem 0;
+}
+.box_bottom{
+    display: flex;
+    align-items: center;
+    gap: 1.1rem;
+}
+.bottom_img img{
+    border-radius: 50%;
+}
+.bottom_info h5{
+    margin: 0;
+    padding: 0;
+    font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 2rem;
+color: #34394C;
+}
+.bottom_info p{
+    margin: 0;
+    padding: 0;
+font-family: 'Outfit';
+font-style: normal;
+font-weight: 400;
+font-size: 1.2rem;
+color: #B4B9C7;
+}

@@ -1,0 +1,39 @@
+footer{
+    height: 36.8rem;
+    background-color: #E8EAEF;
+}
+.ulina{
+    position: relative;
+    padding-top: 20rem;
+}
+.address .ulina p{
+    font-family: Work Sans;
+font-size: 18px;
+font-weight: 300;
+line-height: 28px;
+letter-spacing: 0em;
+text-align: left;
+color: #707686;
+margin: 1.5rem 0 2rem 0;
+}
+.ulina input{
+    
+    width: 236px;
+height: 40px;
+border-radius: 3px;
+border: none;
+font-family: Work Sans;
+font-size: 14px;
+font-weight: 300;
+line-height: 28px;
+letter-spacing: -0.03em;
+text-align: left;
+color: #AEB0B8;
+padding: 0.5rem 0 0.5rem 2rem;
+}
+.ulina input + i{
+    position: absolute;
+    left: 20.5rem;
+    top: 11.6rem;
+    font-size: 1.5rem;
+}
